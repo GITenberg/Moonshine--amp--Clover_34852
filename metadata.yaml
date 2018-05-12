@@ -1,0 +1,45 @@
+_repo: Moonshine--amp--Clover_34852
+_version: 0.1.0
+alternative_title: Moonshine and Clover
+contributor:
+  illustrator:
+    agent_name: Housman, Clemence
+    birthdate: 1861
+    deathdate: 1955
+    gutenberg_agent_id: '4853'
+    url: http://www.gutenberg.org/2009/agents/4853
+covers:
+- cover_type: archival
+  image_path: 34852-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Bunny, Benjamin
+    - Housman, Lawrence
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
+description: ''
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+tableOfContents: The prince with the nine sorrows -- How little Duke Jarl saved the
+  castle -- A capful of moonshine -- The story of the herons -- The crown's warranty
+  -- Rocking-Horse Land -- Japonel -- Gammelyn, the dressmaker -- The feeding of the
+  emigrants -- White birch -- The luck of the roses -- The white doe -- The moon-stroke
+  -- The gentle cockatrice -- The green bird -- The man who killed the cuckoo -- A
+  Chinese fairy-tale -- Happy returns.
+title: Moonshine & Clover
+url: http://www.gutenberg.org/ebooks/34852
